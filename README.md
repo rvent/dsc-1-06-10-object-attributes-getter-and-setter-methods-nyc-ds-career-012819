@@ -1,5 +1,5 @@
 
-# Object Attributes - Setter and Getter Methods
+# Test Object Attributes - Setter and Getter Methods
 
 ## Introduction
 We have now covered Python classes, instance objects, instance methods, and instance variables. Now that we know what these things are and how they work together, we need to think about how we *want* these parts of our program to work together. Said another way, we need to think about making our programs a bit more secure and prevent users from making unwanted changes or creating bad data. To that effect, we will want to use design patterns for creating private instance variables or defining instance methods that provide ways to update instance variables indirectly. These methods are called setters and getters, because they both read and write (get and set) the private instance variable information we would like to access. Let's get started!
